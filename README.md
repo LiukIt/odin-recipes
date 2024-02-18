@@ -1,1 +1,1 @@
-# odin-recipes
+# Build a basic html site as a first job - Use github and git to link work on platform - Build cooperation and sharing skills for future
