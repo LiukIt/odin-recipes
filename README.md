@@ -1,1 +1,1 @@
-# Build a basic html site as a first job - Use github and git to link work on platform - Build cooperation and sharing skills for future
+# Build a basic html site as a first job - Use git to link work on Github - Build cooperation and sharing skills for future
